@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1621465243 source:c:\users\casper\onedrive\masaüstü\cs201\hw3\moviebookingsystem.cpp
+	"MovieBookingSystem.h"
+	<ctime>
+	<iostream>
+	<sstream>
+
+1621465513 c:\users\casper\onedrive\masaüstü\cs201\hw3\moviebookingsystem.h
+	<string>
+
+1621465620 source:c:\users\casper\onedrive\masaüstü\cs201\hw3\main.cpp
+	<iostream>
+	"MovieBookingSystem.h"
+
